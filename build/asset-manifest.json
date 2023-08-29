@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86fb8d14.css",
+    "main.js": "/static/js/main.fd79d203.js",
+    "static/media/travel.jpg": "/static/media/travel.25b4e8d32df9127b7236.jpg",
+    "static/media/bgback.gif": "/static/media/bgback.d0266d3fe7825d7afdcf.gif",
+    "static/media/avi.jpg": "/static/media/avi.02a7224a22a6ee174776.jpg",
+    "static/media/Paid idea.gif": "/static/media/Paid idea.a58aaebc09ddd85d7472.gif",
+    "static/media/health.jpg": "/static/media/health.04514b293e391f451a71.jpg",
+    "static/media/tech.jpg": "/static/media/tech.8d17d2dee078ed1b1a12.jpg",
+    "static/media/manu.jpg": "/static/media/manu.54e08c52e91b55b3fc4b.jpg",
+    "static/media/cons.jpg": "/static/media/cons.55c0c63fdf75ca04c95c.jpg",
+    "static/media/paymentre.png": "/static/media/paymentre.7562875b6781bd1833bf.png",
+    "static/media/fash.jpg": "/static/media/fash.5fc20de08d20cb58a0f1.jpg",
+    "static/media/ene.webp": "/static/media/ene.60afa55462ef8bc1a21b.webp",
+    "static/media/bank.jpg": "/static/media/bank.eeafa005c53a99e5c7a3.jpg",
+    "static/media/auto.jpg": "/static/media/auto.0f6ccaece032fc7768d9.jpg",
+    "index.html": "/index.html",
+    "main.86fb8d14.css.map": "/static/css/main.86fb8d14.css.map",
+    "main.fd79d203.js.map": "/static/js/main.fd79d203.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86fb8d14.css",
+    "static/js/main.fd79d203.js"
+  ]
+}
